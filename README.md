@@ -6,6 +6,7 @@
 - Unity2018
 
 ## Steps on Android platform
+*We have successful packaged an apk file which is on the root of this project, you can check it if you don't want to package one by yourself.*
 1. Import MirrorWorld UnitySDK which version is **higher** than v0.250.220.4.3, you can find them [here](https://github.com/mirrorworld-universe/mirrorworld-sdk-unity/releases/tag/v0.250.220.4.3).
 2. Config the Unity demo's AndroidManifest.xml and mainTemplate.gradle file following [MirrorWorld UnitySDK's readme](https://github.com/mirrorworld-universe/mirrorworld-sdk-unity). Or you can use them of this demo directly.
 
